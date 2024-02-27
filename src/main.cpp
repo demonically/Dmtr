@@ -7,6 +7,5 @@ int main()
     {
         std::cout << "int: " << i << std::endl;
     }
-    printf("pizdecs");
     return 0;
 }
